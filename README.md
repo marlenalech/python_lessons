@@ -2,7 +2,7 @@
 # Python Lessons
 
 📘 **Zbiór lekcji i ćwiczeń z nauki języka Python**  
-To repozytorium dokumentuje mój codzienny postęp w nauce Pythona – od podstaw po bardziej zaawansowane zagadnienia. Każdy plik zawiera krótki, praktyczny przykład konkretnego zagadnienia, z naciskiem na zrozumienie, testowanie i samodzielne rozwiązywanie problemów.
+To repozytorium dokumentuje mój codzienny postęp w nauce Pythona – od podstaw po bardziej zaawansowane zagadnienia. Każdy plik zawiera krótki, praktyczny przykład konkretnego zagadnienia, z naciskiem na zrozumienie, testowanie i samodzielne rozwiązywanie problemów
 
 ## Zakres materiału
 - Składnia i podstawy języka
